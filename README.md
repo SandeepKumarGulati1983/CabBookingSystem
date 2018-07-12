@@ -1,7 +1,7 @@
 # CabBookingSystem
 OLA/UBER type cab booking system 
 
-#My thought 
+# My thought 
 as per my understanding we can achieve this by creating two objects   , one is 
 User  and one is Cab 
 
